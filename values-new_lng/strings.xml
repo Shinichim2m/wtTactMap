@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">WarThunder tactical map</string>
+    <string name="app_name">WarThunder mapa táctico</string>
     
     <string name="settings">Settings</string>
     <string name="hide">Hide</string>
